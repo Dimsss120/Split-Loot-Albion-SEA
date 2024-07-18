@@ -110,3 +110,44 @@ input, placeholder {
   height: 30px;
   width: auto;  
 }
+
+ 
+/* H.T.U */
+
+.border {
+  border: 2px solid;
+  border-radius: 5px;
+  border-color: whitesmoke;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  color: whitesmoke;
+  padding: 2px;
+}
+
+.summary {
+  font-family: 'Roboto Condensed', sans-serif ;
+  font-size: 17px ;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.how {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 600px;
+  text-align: left;
+  text-transform: capitalize;
+  color: whitesmoke;
+}
+
+.end-1 {
+  color: whitesmoke;
+  font-size: 21px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 600px;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 1rem;
+  margin: 1rem;
+}
