@@ -156,7 +156,11 @@ input, placeholder {
 }
 
 @media screen and (max-width: 920px) {
-  body { 
+  .judul, .table  {
     width: 100%;
+  }
+
+  .input-loot-1, .tombol-1, .input-loot-2, .tombol-2 { 
+    width: 85%;
   }
 }
