@@ -154,3 +154,9 @@ input, placeholder {
   padding: 1rem;
   margin: 1rem;
 }
+
+@media screen and (max-width: 920px) {
+  body { 
+    width: 100%;
+  }
+}
