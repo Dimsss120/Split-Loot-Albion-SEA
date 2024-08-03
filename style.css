@@ -39,22 +39,22 @@ th {
 
 .container-2 {
   text-align: center;
-  border: 2px solid black;
+  border: 2px solid rgba(0, 0, 0, 0);
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 40%;
   border-radius: 9px;
   border-color: #402E7A;
-  background:linear-gradient(#071952, purple);  
+  background-color: rgba(245, 245, 245, 0.164);  
   color: whitesmoke;
-  border-color: whitesmoke;
+  border-color: rgba(245, 245, 245, 0.489);
 }
 
 .input-loot-1 {
   font-size: 17px;  
   font-weight: bold;
-  border-color: whitesmoke;
+  border-color: rgba(245, 245, 245, 0.489);
   border-radius: 9px;
   font-family: 'Roboto Condensed', sans-serif;
 }
@@ -62,20 +62,22 @@ th {
 input, placeholder {
   text-align: center;
   color: whitesmoke;
-  background:linear-gradient(#071952, purple);
+  background:linear-gradient(#0719527d, rgba(128, 0, 128, 0.447));
 }
 
 .tombol-1 {
-  color: black;
+  color: whitesmoke;
   border-color: #402E7A;
   font-family: 'poppins' sans-serif;
-  background:linear-gradient(white, gray );
-  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.251);
+  border-radius: 9px;
   height: 30px;
-  width: 60px;
+  width: 70px;
   font-weight: bold;
   font-family: 'Roboto Condensed', sans-serif ;
 }
+
+
 
 
 
@@ -89,10 +91,10 @@ input, placeholder {
   margin-right: auto;
   width: 40%;
   border: 2px solid #402E7A ;
-  border-radius: 5px;
-  border-color: whitesmoke;
+  border-radius: 9px;
+  border-color: rgba(245, 245, 245, 0.342);
   font-family: 'poppins' sans-serif;
-  background-color: purple;
+  background-color: rgba(245, 245, 245, 0.21);
 }
 
 .input-loot-2 {
@@ -104,14 +106,14 @@ input, placeholder {
 }
 
 .tombol-2 {
-  color: black;
+  color: whitesmoke;
   border-color: #402E7A;
-  font-family: 'Roboto Condensed' sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   font-weight: bold;
-  background:linear-gradient(white, gray);
+  background-color: rgba(0, 0, 0, 0);
   border-radius: 9px;
   height: 30px;
-  width: auto;  
+  width: 170px;  
 }
 
  
